@@ -1,4 +1,4 @@
-HELP.md
+设计模式教程.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
